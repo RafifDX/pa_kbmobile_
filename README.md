@@ -10,3 +10,6 @@ Cara menggunakan aplikasi:
 
 Cara menjalankan server:
 Ketik python manage.py runserver di folder api. Lalu server akan berjalan.
+
+Link APK:
+https://drive.google.com/file/d/17RU_787DcpKDMi0m68DKmfomd24sBQWk/view?usp=sharing
